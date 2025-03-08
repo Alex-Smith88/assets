@@ -1,0 +1,12 @@
+ json
+     {
+       "name": "Lizard",
+       "symbol": "LIZ",
+       "type": "ERC20",
+       "decimals": 18,
+       "description": "Lizard: хватай монету, пока она не ускользнула!",
+       "website": "https://lizardtoken.com",
+       "explorer": "https://bronze-faithful-prawn-711.mypinata.cloud/ipfs/bafkreidcdo2tik3losqely4kcmgy3gj7v5ci2fzsx4gpw4nxb4acrv2ktu",
+       "status": "active",
+       "id": "8798e654-90e8-4834-bb8a-458bc81a163e"
+     }
